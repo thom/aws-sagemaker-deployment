@@ -45,4 +45,4 @@ Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © [Thomas Weibel](https://github.com/thom).
+- Copyright 2021 © [Thomas Weibel](https://github.com/thom).
